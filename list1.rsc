@@ -1,4 +1,5 @@
 /ip firewall address-list
+add list=list1-conatel-drop comment=conatel-drop address="angel.com.ve"
 add list=list1-conatel-drop comment=conatel-drop address="intertvvip.com"
 add list=list1-conatel-drop comment=conatel-drop address="itopvpn.com"
 add list=list1-conatel-drop comment=conatel-drop address="hola.org"
